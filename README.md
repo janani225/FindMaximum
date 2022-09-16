@@ -46,7 +46,7 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-### The aximum of marks using the list method sort.
+### The maximum of marks using the list method sort.
 ![output 1](https://user-images.githubusercontent.com/113497333/190679946-aa01a5f0-9fe0-45db-9c50-1e384a98592f.jpeg)
 
 ### The maximum marks using the list method max().
